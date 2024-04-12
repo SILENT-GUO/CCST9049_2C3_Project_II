@@ -1,8 +1,15 @@
 # CCST9049_2C3_Project_II
 
-This is the group project II of CCST9049, where we use Unity VR for Meta Quest 3 artwork creation
+This is the group project II of CCST9049, where we use Unity VR for Meta Quest 3 artwork creation.
 
-Acknowledgement: We relied on Unity's Tutorial for VR development on Meta Quest 3. For more details please view https://developer.oculus.com/documentation/unity/unity-tutorial-hello-vr/.
+Group Member: (alphabethical order)
+- Dong Huaiwen
+- Guo Zebin
+- Zhang Shenru
+- Zhou Ziyue
+
+Acknowledgement:
+- We relied on Unity's Tutorial for VR development on Meta Quest 3. For more details please view https://developer.oculus.com/documentation/unity/unity-tutorial-hello-vr/.
 
 How to build our project?
 1. Clone this project, the total size is over 6.9 GB
