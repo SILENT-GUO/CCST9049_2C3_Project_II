@@ -13,4 +13,4 @@ How to build our project?
 5. After connecting the XR device with your computer, press File -> Build Settings -> Select SampleScene1 and Android Platform -> Switch Platform (If needed) -> Build and Run. By this the built file CCST9049_2C3_Project_II.apk with be copied to Quest device. You can also find this apk in Unknown sources of application folder.
 6. To view the scene of our project, select File -> Open Scene, Select "CCST9049_2C3_Project_II\Unity-StarterSamples\Assets\StarterSamples\Usage\Usage\SampleScene1.unity".
 
-Although the apk file is ignored by git unity when uploading, we seperately upload CCST9049_2C3_Project_II.apk in the root directory. You can also use SideQuest to install this apk file from local computer to Quest device.
+As the apk file is ignored by git unity when uploading and its size is larger than 25 MB, we decided not to put the apk file here. You may access the apk file via [google drive link](https://drive.google.com/file/d/1ntohamSag3WV3QVLWNyJKnFVvTjU9Adh/view?usp=drive_link)
