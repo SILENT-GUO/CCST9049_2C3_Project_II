@@ -1,5 +1,7 @@
 # CCST9049_2C3_Project_II
+
 This is the group project II of CCST9049, where we use Unity VR for Meta Quest 3 artwork creation
+
 Acknowledgement: We relied on Unity's Tutorial for VR development on Meta Quest 3. For more details please view https://developer.oculus.com/documentation/unity/unity-tutorial-hello-vr/.
 
 How to build our project?
