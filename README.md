@@ -19,7 +19,7 @@ How to build our project?
    ```python
    git clone https://github.com/SILENT-GUO/CCST9049_2C3_Project_II.git
    ```
-2. Download Unity on your platform.
+2. Download Unity on your platform. Remember to tick Android SDK when installing Unity editor.
 3. In Unity Hub, Choose Add Project from Disk and select **Unity-StarterSamples** folder
 4. After opening the unity editor, make sure you have downloaded [Meta XR All-in-One SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657) and [Meta XR Audio SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-audio-sdk-264557) from package manager.
 5. After connecting the XR device with your computer, press File -> Build Settings -> Select SampleScene1 and Android Platform -> Switch Platform (If needed) -> Build and Run. By this the built file CCST9049_2C3_Project_II.apk with be copied to Quest device. You can also find this apk in Unknown sources of application folder.
