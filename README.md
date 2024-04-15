@@ -26,6 +26,6 @@ How to build our project?
 6. To view the scene of our project, select File -> Open Scene, Select "CCST9049_2C3_Project_II\Unity-StarterSamples\Assets\StarterSamples\Usage\Usage\SampleScene1.unity".
 
 Trouble Shooting:
-+ Were you encounter any problems regarding building our project, please first check with [official startup tutorial](https://developer.oculus.com/documentation/unity/unity-tutorial-hello-vr/). If your problem is not resolved, feel free to open issues and contact us!
++ If you encounter any problems related to building our project, please refer to the [official startup tutorial](https://developer.oculus.com/documentation/unity/unity-tutorial-hello-vr/) as your first step. If your problem remains unresolved, feel free to open issues and contact us!
 
 P.S. As the apk file is ignored by git unity when uploading and its size is larger than 25 MB, we decided not to put the apk file here. You may access the apk file via this [google drive link](https://drive.google.com/file/d/1ntohamSag3WV3QVLWNyJKnFVvTjU9Adh/view?usp=drive_link)
