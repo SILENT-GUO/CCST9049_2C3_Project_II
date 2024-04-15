@@ -2,7 +2,7 @@
 
 This is the group project II of CCST9049, where we use Unity VR for Meta Quest 3 artwork creation.
 
-Group Member: (Alphabetical order)
+Group Member: (Alphabetical Order)
 - Dong Huaiwen
 - Guo Zebin
 - Zhang Shenru
