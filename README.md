@@ -10,9 +10,10 @@ Group Member: (Alphabetical Order)
 
 Acknowledgement:
 - We relied on Unity's Tutorial for VR development on Meta Quest 3. For more details please view https://developer.oculus.com/documentation/unity/unity-tutorial-hello-vr/.
+- The model of trees are downloaded from [here](https://www.turbosquid.com/3d-models/lowpoly-trees-carrot-crystal-1189852), the model of boat is from [here](https://www.turbosquid.com/3d-models/free-boat-paddles-3d-model/1102510).
 
 Where does our scenes and materials come from?
-- Most of the scenes and materials are all built from scratch in Blender. The model of trees are downloaded from [Internet](https://www.turbosquid.com/3d-models/lowpoly-trees-carrot-crystal-1189852).
+- Most of the scenes and materials are all built from scratch in Blender. 
 
 How to build our project?
 1. Clone this project, the total size is over 6.9 GB
