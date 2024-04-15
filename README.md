@@ -12,7 +12,7 @@ Acknowledgement:
 - We relied on Unity's Tutorial for VR development on Meta Quest 3. For more details please view https://developer.oculus.com/documentation/unity/unity-tutorial-hello-vr/.
 
 Where does our scenes and materials come from?
-- They are all built from scratch in Blender.
+- Most of the scenes and materials are all built from scratch in Blender. The model of trees are downloaded from [Internet](https://www.turbosquid.com/3d-models/lowpoly-trees-carrot-crystal-1189852).
 
 How to build our project?
 1. Clone this project, the total size is over 6.9 GB
